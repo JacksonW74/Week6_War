@@ -136,4 +136,4 @@ if (player1.score > player2.score) {
   console.log(`The game ended in a tie with a score of ${player1.score} to ${player2.score} 😕`);
 }
 //Declaring number of rounds played
-console.log(`The game lasted ${round} rounds 🎆`);
+console.log(`The game lasted ${round -1} rounds 🎆`);
